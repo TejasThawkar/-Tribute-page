@@ -1,0 +1,17 @@
+.body_wrapper {
+    background: #9e9e9e;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+.content_wrapper {
+    background: #e4e4e4;
+}
+
+.titan_wrapper {
+    background-color: white;
+    border: 10px solid white;
+    border-radius: 10px;
+}
